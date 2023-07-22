@@ -1,3 +1,3 @@
-# odin-knights-travails
+# knights-travails
 
-This is a practice project for The Odin Project: Knights Travails.
+Logic for determining shortest path for chess knight to travel from one point to another.
